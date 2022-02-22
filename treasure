@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Treasure';
+    src: url('https://static.tumblr.com/plmkxw9/tzWr7pnc3/treasure-regular-webfont.eot');
+    src: url('https://static.tumblr.com/plmkxw9/2lkr7pnbb/treasure-regular-webfont.woff2') format('woff2'),
+         url('https://static.tumblr.com/plmkxw9/SuAr7pn27/treasure-regular.ttf')  format('truetype');
+}
